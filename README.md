@@ -6,8 +6,12 @@ I will list below the steps that involved in the process of extracting genre ter
 
 # Step 1:
   1. I use Python Jupyter Notebook at <a href= "https://www.scinethpc.ca/"> SciNet Advanced Computing </a> at University of Toronto
-  2. Reading transcription and vocabularies files are quite challenging as they have not only the characters but also numerous symbols which are integral part of the words. 
-  2. I downloaded the files and encoded them to uft-8
+  2. I use two documents: Italian transcription and vocabulary list that contains terms which are manually identified for automatic extraction of 
+  them and their alternat spellings and contractions. 
+  3. The aim is to use the vocabulary list to extract the terms, and their alternat spellings and contractions in Italian transcriptions. 
+  4. Python presents a significant challenge  as these files often contain not just characters but also a variety of symbols that are essential components of the words.
+  5.  
+  6. I downloaded the files and encoded them to uft-8
 
 
 # Step 2:
